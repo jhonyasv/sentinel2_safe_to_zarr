@@ -51,13 +51,17 @@ jupyter notebook sentinel2_safe_to_zarr.ipynb
 
 ## 📖 References
 
-* Dask Documentation
+* [Dask Documentation](https://docs.dask.org/en/stable/)
 
-* Xarray Documentation
+* [Xarray Documentation](https://docs.xarray.dev/en/stable/)
 
-* rioxarray
+* [rioxarray] (https://corteva.github.io/rioxarray/stable/)
 
-* Sentinel-2 SAFE format
+* [Sentinel-2 SAFE format](https://user.eumetsat.int/resources/user-guides/sentinel-safe-format-guide)
+
+* [Zarr format](https://zarr.readthedocs.io/en/stable/)
+
+* [Advantages of using Zarr](https://aws.amazon.com/es/blogs/publicsector/decrease-geospatial-query-latency-minutes-seconds-using-zarr-amazon-s3/)
 
 ## 🔗 Contributing
 
