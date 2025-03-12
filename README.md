@@ -1,6 +1,6 @@
 # Sentinel-2 SAFE to Zarr Conversion
 
-This repository provides a Jupyter Notebook that demonstrates how to convert **Sentinel-2** data from the **SAFE** format to the **cloud-native Zarr** format. The workflow is designed for users familiar with SAFE but new to Zarr.
+This repository provides a [Jupyter Notebook](notebook/SAFE_to_Zarr) that demonstrates how to convert **Sentinel-2** data from the **SAFE** format to the **cloud-native Zarr** format. The workflow is designed for users familiar with SAFE but new to Zarr.
 
 # 📌 Features
 
