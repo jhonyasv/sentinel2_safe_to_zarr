@@ -1,0 +1,6 @@
+dask
+xarray
+rioxarray
+rasterio
+numpy
+matplotlib
