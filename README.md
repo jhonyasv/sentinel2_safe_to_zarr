@@ -1,6 +1,6 @@
 # Sentinel-2 SAFE to Zarr Conversion
 
-This repository provides a Jupyter Notebook that demonstrates how to convert **Sentinel-2** data from the **SAFE** format to the **cloud-native Zarr** format. The workflow is designed for users familiar with SAFE but new to Zarr.
+This repository provides a [Jupyter Notebook](notebook/SAFE_to_Zarr.ipynb) that demonstrates how to convert **Sentinel-2** data from the **SAFE** format to the **cloud-native Zarr** format. The workflow is designed for users familiar with SAFE but new to Zarr.
 
 # 📌 Features
 
@@ -22,7 +22,7 @@ The Sentinel-2 data should be stored in the *data/* directory in SAFE format bef
 
 1. Clone this repository:
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/sentinel2_safe_to_zarr.git
+git clone https://github.com/jhonyasv/sentinel2_safe_to_zarr.git
 cd sentinel2_safe_to_zarr
 ```
 2. Create a virtual environment (optional but recommended):
@@ -51,13 +51,17 @@ jupyter notebook sentinel2_safe_to_zarr.ipynb
 
 ## 📖 References
 
-* Dask Documentation
+* [Dask Documentation](https://docs.dask.org/en/stable/)
 
-* Xarray Documentation
+* [Xarray Documentation](https://docs.xarray.dev/en/stable/)
 
-* rioxarray
+* [rioxarray](https://corteva.github.io/rioxarray/stable/)
 
-* Sentinel-2 SAFE format
+* [Sentinel-2 SAFE format](https://user.eumetsat.int/resources/user-guides/sentinel-safe-format-guide)
+
+* [Zarr format](https://zarr.readthedocs.io/en/stable/)
+
+* [Advantages of using Zarr](https://aws.amazon.com/es/blogs/publicsector/decrease-geospatial-query-latency-minutes-seconds-using-zarr-amazon-s3/)
 
 ## 🔗 Contributing
 
