@@ -22,7 +22,7 @@ The Sentinel-2 data should be stored in the *data/* directory in SAFE format bef
 
 1. Clone this repository:
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/sentinel2_safe_to_zarr.git
+git clone https://github.com/jhonyasv/sentinel2_safe_to_zarr.git
 cd sentinel2_safe_to_zarr
 ```
 2. Create a virtual environment (optional but recommended):
