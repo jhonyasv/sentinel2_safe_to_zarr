@@ -55,7 +55,7 @@ jupyter notebook sentinel2_safe_to_zarr.ipynb
 
 * [Xarray Documentation](https://docs.xarray.dev/en/stable/)
 
-* [rioxarray] (https://corteva.github.io/rioxarray/stable/)
+* [rioxarray](https://corteva.github.io/rioxarray/stable/)
 
 * [Sentinel-2 SAFE format](https://user.eumetsat.int/resources/user-guides/sentinel-safe-format-guide)
 
